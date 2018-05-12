@@ -1,0 +1,27 @@
+_repo: Hunters-Out-of-Space_25270
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25270-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kelleam, Joseph Everidge
+    birthdate: 1913
+    deathdate: 1975
+    gutenberg_agent_id: '31200'
+    url: http://www.gutenberg.org/2009/agents/31200
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_E._Kelleam
+description: ''
+gutenberg_issued: '2008-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Hunters Out of Space
+url: http://www.gutenberg.org/ebooks/25270
